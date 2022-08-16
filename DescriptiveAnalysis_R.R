@@ -6,7 +6,6 @@ graphics.off()
 setwd("~/VGL/Gustavo/ProyectoCOLCIENCIAS/Cuestionarios/TestDescargaDatos/R")
 
 # Load gmodels library
-library(gmodels)
 library(crosstable)
 library(flextable)
 library(ggplot2)
