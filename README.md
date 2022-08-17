@@ -1,5 +1,6 @@
-# PColCiencias
-Scripts R
+# Cohorte Cartagena
+
+Repositorio con scripts en R para la importación y análisis de los datos de la Cohorte Cartagena.
 
 Algunos scripts de R para la importación y análisis de los datos del proyecto.
 
