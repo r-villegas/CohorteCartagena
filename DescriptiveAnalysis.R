@@ -1,7 +1,7 @@
 # 
 # CohorteCartagena
 # Análisis descriptivo:
-# Cálculo de medidas resumen y tablas
+# Cálculo de medidas resumen y creación de tablas y gráficos
 #
 
 # Clear existing data and graphics
