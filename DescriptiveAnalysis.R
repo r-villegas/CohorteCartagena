@@ -11,13 +11,14 @@ rm(list=ls())
 # Working directory
 setwd("~/TestDescargaDatos/R")
 
-# Load gmodels library
+# Load some libraries
 library(crosstable)
 library(flextable)
 library(ggplot2)
 library(ggridges) # add median as vertical line
 
-# Load data.frame "data"
+# Load dataframe Sample_CartagenaCohortStudy_R_2022-08-09_0211
+# created with "PrepararData.R"
 data <- readRDS(file="Sample_CartagenaCohortStudy_R_2022-08-09_0211.Rda")
 head(data)
 
