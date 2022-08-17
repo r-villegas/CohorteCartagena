@@ -9,7 +9,7 @@ rm(list=ls())
 #graphics.off()
 
 # Working directory
-setwd("~/ProyectoCOLCIENCIAS/Cuestionarios/TestDescargaDatos/R")
+setwd("~/TestDescargaDatos/R")
 
 # Load gmodels library
 library(crosstable)
