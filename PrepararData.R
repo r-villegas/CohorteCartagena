@@ -10,7 +10,7 @@ rm(list=ls())
 graphics.off()
 
 # Working directory
-setwd("~/VGL/Gustavo/ProyectoCOLCIENCIAS/Cuestionarios/TestDescargaDatos/R")
+setwd("~/TestDescargaDatos/R")
 
 # Librerías en uso
 library(data.table) # funcion setkey y setDT
